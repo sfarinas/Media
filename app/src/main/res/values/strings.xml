@@ -2,4 +2,7 @@
     <string name="app_name">Media</string>
     <string name="todo">TODO</string>
     <string name="media_ead">Media EAD</string>
+    <string name="sua_m_dia">Sua média é</string>
+    <string name="passou">Passou ?</string>
+    <string name="nota">0.0</string>
 </resources>
